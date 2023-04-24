@@ -1,0 +1,145 @@
+h1 { color: rgb(43, 183, 226);
+    text-decoration: underline;
+    padding: 10px;
+    background-color: #740c0c;
+    border-radius: 10px;
+    text-align: center;
+    border: 1px solid white;
+    padding: 20px;
+}
+
+#foto {
+    width: 75px;
+    margin-right: 2000px;
+}
+
+
+body {
+    background-color: black;
+}
+
+
+#primeira {
+    width: 352px; 
+    height: 475px;
+}
+
+#segunda {
+    width: 270px;
+}
+
+#terceira {
+    width: 800;
+}
+
+
+
+
+
+h1:hover {
+    color: #2f2533;
+}
+
+img {
+    border-radius: 20px;
+}
+
+#um {
+    color: #7AA874;
+}
+
+#dois {
+    color: #d17a3c;
+}
+
+#tres {
+    color: rgb(39, 89, 199);
+}
+
+#um:hover {
+    color: #850813;
+}
+
+#dois:hover {
+    color: yellow;
+}
+
+#tres:hover {
+    color: aqua;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    border: 1px solid rgb(48, 2, 2);
+}
+
+.card {
+    margin-right: 50px;
+}
+
+
+h2 {
+    text-align: center;
+    color:  #FF7B54;
+    background-color: black;
+    text-decoration: underline;
+}
+
+
+h2:hover {
+    color: #b6791e;
+}
+
+
+
+
+#uzui {
+    color: #bb9fac;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#uzui:hover{color: #89375F;}
+
+
+#tomioka {  width: 700px;
+    border-radius: 0%;
+    margin-left: 570px;}
+
+
+
+#agua { text-align: center;
+    color: #187498;}
+#agua:hover { color: blue;}
+
+
+#insetos{ color: #8842c0;}
+#insetos:hover{ color: #E3ACF9;}
+
+
+
+#vento{ color: #6a7491 ;}
+#vento:hover{color: #55586b;}
+
+
+
+
+#serpente:hover{color:  #494a96;}
+
+#serpente{ color:#7dcc92;
+text-align: center;
+text-decoration: underline;}
+
+
+#amor{ color: #C539B4;
+text-decoration: underline;}
+
+#amor:hover{ color: pink }
+
+#nevoa{ color: #4CACBC;}
+
+#nevoa:hover{ color: #0a5d6b}
+
+#rocha{ color: burlywood;}
+#rocha:hover{color: rgb(189, 135, 65);}
